@@ -3,8 +3,8 @@
   src: url(assets/hansief.woff2);
 }
 @font-face {
-  font-family: Figtree;
-  src: url(assets/figtree.woff2);
+  font-family: Inter-Regular;
+  src: url(assets/Inter-Regular.woff2);
   font-weight: 100 900;
   font-display: swap;
 }
